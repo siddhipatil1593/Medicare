@@ -151,4 +151,6 @@ ng serve -o
 ```
 <img width="1298" height="902" alt="screenshorts" src="https://github.com/siddhipatil1593/Medicare/blob/ae0fadd9baa9ecd3658b699e4dfd5e2a256e1a5e/Screenshot%20(65).png"/>
 ```
+<img width="1298" height="902" alt="screenshorts" src="https://github.com/siddhipatil1593/Medicare/blob/e2f66c6b7ff157c0ec9b2a0cba1550e9b17e25ff/Screenshot%20(66).png"/>
+```
 <img width="1298" height="902" alt="screenshorts" src=""/>
