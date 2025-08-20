@@ -143,12 +143,12 @@ ng serve -o
 ```
 <img width="1298" height="902" alt="screenshorts" src="https://github.com/siddhipatil1593/Medicare/blob/f31072a1baa8369e1d368e3913acdc31b541c4df/Screenshot%20(61).png"/>
 ```
-<img width="1298" height="902" alt="screenshorts" src=""
+<img width="1298" height="902" alt="screenshorts" src="https://github.com/siddhipatil1593/Medicare/blob/13e3318b97be058baa16897f094a73f1235ba593/Screenshot%20(62).png"/>
 ```
-<img width="1298" height="902" alt="screenshorts" src=""
+<img width="1298" height="902" alt="screenshorts" src=""/>
 ```
-<img width="1298" height="902" alt="screenshorts" src=""
+<img width="1298" height="902" alt="screenshorts" src=""/>
 ```
-<img width="1298" height="902" alt="screenshorts" src=""
+<img width="1298" height="902" alt="screenshorts" src=""/>
 ```
-<img width="1298" height="902" alt="screenshorts" src=""
+<img width="1298" height="902" alt="screenshorts" src=""/>
