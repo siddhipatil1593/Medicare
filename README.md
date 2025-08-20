@@ -139,5 +139,5 @@ npm install
 ng serve -o
 ```
 # **📸 Screenshots**
-<img width="1298" height="902" alt="Screenshot %20(60)" src="https://github.com/user-attachments/assets/6c36dc92-df44-424b-ad20-1457f1a3117d" />
+i[image alt](https://github.com/siddhipatil1593/Medicare/blob/24394cfbee8d811c996e246997dd9b37dca3d07a/Screenshot%20(60).png)
 
