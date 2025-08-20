@@ -153,4 +153,4 @@ ng serve -o
 ```
 <img width="1298" height="902" alt="screenshorts" src="https://github.com/siddhipatil1593/Medicare/blob/e2f66c6b7ff157c0ec9b2a0cba1550e9b17e25ff/Screenshot%20(66).png"/>
 ```
-<img width="1298" height="902" alt="screenshorts" src=""/>
+<img width="1298" height="902" alt="screenshorts" src="https://github.com/siddhipatil1593/Medicare/blob/4a77643f6b7ee5b78be418c4e43227973418ee90/Screenshot%20(67).png"/>
