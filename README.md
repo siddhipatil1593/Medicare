@@ -139,4 +139,5 @@ npm install
 ng serve -o
 ```
 # **📸 Screenshots**
+<img width="1298" height="902" alt="FRONT12" src="https://github.com/user-attachments/assets/6c36dc92-df44-424b-ad20-1457f1a3117d" />
 
