@@ -103,8 +103,38 @@ medcare-frontend/
 
 
 ```
----
+# **🚀 Installation & Setup**
 
----
+## **📂 Backend (Flask)**
 
+**📂 Step 1: Clone the repository**  
+```bash
+git clone https://github.com/siddhipatil1593/medcare.git
+cd medcare_backend
+```
+**⚙️Step 2: Create virtual environment**
+```
+python -m venv venv
+venv\Scripts\activate
+```
+***📦 Step 3: Install dependencies**
+```
+pip install -r requirements.txt
+```
+***▶️  Step 4: Start backend server**
+```
+python app.py
+```
 
+## **📂Frontend (Angular)**
+```
+cd medcare-frontend
+```
+***Install dependencies**
+```
+npm install
+```
+***Run frontend**
+```
+ng serve -o
+```
