@@ -141,8 +141,6 @@ ng serve -o
 # **📸 Screenshots**
 <img width="1298" height="902" alt="screenshort" src="https://github.com/siddhipatil1593/Medicare/blob/24394cfbee8d811c996e246997dd9b37dca3d07a/Screenshot%20(60).png" />
 ```
-<img width="1298" height="902" alt="screenshorts" src="https://github.com/siddhipatil1593/Medicare/blob/f31072a1baa8369e1d368e3913acdc31b541c4df/Screenshot%20(61).png"/>
-```
 <img width="1298" height="902" alt="screenshorts" src="https://github.com/siddhipatil1593/Medicare/blob/13e3318b97be058baa16897f094a73f1235ba593/Screenshot%20(62).png"/>
 ```
 <img width="1298" height="902" alt="screenshorts" src="https://github.com/siddhipatil1593/Medicare/blob/72b7c54c989bddfd71bd6e9b91641451b79fd6ad/Screenshot%20(63).png"/>
@@ -152,5 +150,3 @@ ng serve -o
 <img width="1298" height="902" alt="screenshorts" src="https://github.com/siddhipatil1593/Medicare/blob/ae0fadd9baa9ecd3658b699e4dfd5e2a256e1a5e/Screenshot%20(65).png"/>
 ```
 <img width="1298" height="902" alt="screenshorts" src="https://github.com/siddhipatil1593/Medicare/blob/e2f66c6b7ff157c0ec9b2a0cba1550e9b17e25ff/Screenshot%20(66).png"/>
-```
-<img width="1298" height="902" alt="screenshorts" src="https://github.com/siddhipatil1593/Medicare/blob/4a77643f6b7ee5b78be418c4e43227973418ee90/Screenshot%20(67).png"/>
