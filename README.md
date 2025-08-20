@@ -1,4 +1,4 @@
-#  🏥 MedCare
+#  🏥 MediCare
 
 MedCare is a **full-stack healthcare management platform** designed to streamline communication between **patients, doctors, and administrators**.  
 It allows patients to manage appointments, view their medical history, and connect with doctors — while doctors can track patient records, appointments, and provide medical guidance efficiently.
@@ -117,11 +117,11 @@ cd medcare_backend
 python -m venv venv
 venv\Scripts\activate
 ```
-***📦 Step 3: Install dependencies**
+**📦 Step 3: Install dependencies**
 ```
 pip install -r requirements.txt
 ```
-***▶️  Step 4: Start backend server**
+**▶️  Step 4: Start backend server**
 ```
 python app.py
 ```
@@ -137,4 +137,6 @@ npm install
 ***Run frontend**
 ```
 ng serve -o
+```
+# **📸 Screenshots**
 ```
