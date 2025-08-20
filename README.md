@@ -139,6 +139,16 @@ npm install
 ng serve -o
 ```
 # **📸 Screenshots**
-<img width="1298" height="902" alt="FRONT12" src="https://github.com/siddhipatil1593/Medicare/blob/24394cfbee8d811c996e246997dd9b37dca3d07a/Screenshot%20(60).png" />
+<img width="1298" height="902" alt="screenshort" src="https://github.com/siddhipatil1593/Medicare/blob/24394cfbee8d811c996e246997dd9b37dca3d07a/Screenshot%20(60).png" />
 ```
-
+<img width="1298" height="902" alt="screenshorts" src="https://github.com/siddhipatil1593/Medicare/blob/f31072a1baa8369e1d368e3913acdc31b541c4df/Screenshot%20(61).png"/>
+```
+<img width="1298" height="902" alt="screenshorts" src=""
+```
+<img width="1298" height="902" alt="screenshorts" src=""
+```
+<img width="1298" height="902" alt="screenshorts" src=""
+```
+<img width="1298" height="902" alt="screenshorts" src=""
+```
+<img width="1298" height="902" alt="screenshorts" src=""
